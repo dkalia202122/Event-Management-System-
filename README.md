@@ -4,7 +4,7 @@ User Portal
 2) a user will have to enroll using email and required phone number. user will have to pay for the event with given set of payment choices to enroll for the event.
 3) the user will then receive a mail from the designated college regarding confirmation of enrollement of user and will be provided with required details of event coordinator.
 Admin Portal
-1) admin 
+1) admin khfla;isfja;sfh;ahflash;sdhvldsh;vshlvseh;fihsflhsd;g
 this project helps a college event management portal to provide a platform to users who wish to enroll in a event and participate in it.
 the client/coder needs to make few changes to the original code to get the code into running state.
 1) you need to have working knowledge of django, css and js
