@@ -3,7 +3,7 @@ User Portal
 1) this project is about a college and its event portal. any student can enroll using the portal and attend the registered event.
 2) a user will have to enroll using email and required phone number. user will have to pay for the event with given set of payment choices to enroll for the event.
 3) the user will then receive a mail from the designated college regarding confirmation of enrollement of user and will be provided with required details of event coordinator.
-Admin Portal
+   Admin Portal
 1) admin will need to provide an email address and password in order to login.
 2) in order to provide a better security, admin will need to login using an otp sent to their email address.
 3) after succesful login, admin can check the registered students for any particular event and their mode of payment.
